@@ -1,0 +1,22 @@
+ninja
+scipy
+# numpy-quaternion
+matplotlib
+open3d
+opencv-python-headless
+numba
+tqdm
+plotly
+notebook
+pytest
+pytest-runner
+sphinx
+sphinx-rtd-theme
+pyyaml
+numpy==1.23.0
+numpy-quaternion>=2019.12.11.22.25.52
+Pillow>=6.2.1
+networkx
+matplotlib
+plotly
+timm
